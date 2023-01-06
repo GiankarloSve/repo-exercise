@@ -1,3 +1,10 @@
+Food:
 1. Pizza
 2. Oranges
 3. Hot wings
+
+Movies:
+1. Taken
+2. Midsommar
+3. Getout
+
